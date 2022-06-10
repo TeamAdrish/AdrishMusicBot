@@ -12,7 +12,7 @@
 
 ### Get String Session
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@AdityaHalder/StringSession)
+[![Telegram String Generation Bot](https://te.legra.ph/file/24500327c4e162e2097af.jpg)](https://t.me/YukkiStringBot)
 
 
 
